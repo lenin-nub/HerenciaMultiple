@@ -1,0 +1,2 @@
+# HerenciaMultiple
+INICIO
